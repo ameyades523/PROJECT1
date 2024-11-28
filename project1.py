@@ -1,53 +1,53 @@
 data = {
     1: [
         {
-            "question": "Who discovered gravity?",
-            "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Galileo Galilei", "D) Nikola Tesla"],
+            "question": "What is the tallest mountain in the world?",
+            "options": ["A) Mount Everest", "B) K2", "C) Kangchenjunga", "D) Mount Kilimanjaro"],
             "correct_answer": "A"
         },
         {
-            "question": "What is the largest planet in our solar system?",
-            "options": ["A) Earth", "B) Jupiter", "C) Mars", "D) Saturn"],
-            "correct_answer": "B"
+            "question": "Which animal is known as the 'King of the Jungle'?",
+            "options": ["A) Elephant", "B) Tiger", "C) Lion", "D) Bear"],
+            "correct_answer": "C"
         },
         {
-            "question": "What is the chemical symbol for sodium?",
-            "options": ["A) Na", "B) K", "C) Cl", "D) Mg"],
+            "question": "What is the chemical symbol for oxygen?",
+            "options": ["A) O", "B) O2", "C) Ox", "D) O3"],
             "correct_answer": "A"
         }
     ],
     2: [
         {
-            "question": "Who is known as the father of modern physics?",
-            "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Marie Curie", "D) Nikola Tesla"],
-            "correct_answer": "B"
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": ["A) Venus", "B) Earth", "C) Mars", "D) Jupiter"],
+            "correct_answer": "C"
         },
         {
-            "question": "Which planet is closest to the Sun?",
-            "options": ["A) Mercury", "B) Venus", "C) Earth", "D) Mars"],
-            "correct_answer": "A"
+            "question": "Who invented the telephone?",
+            "options": ["A) Nikola Tesla", "B) Thomas Edison", "C) Alexander Graham Bell", "D) Galileo Galilei"],
+            "correct_answer": "C"
         },
         {
-            "question": "What is the chemical symbol for water?",
-            "options": ["A) H2O", "B) O2", "C) CO2", "D) H2"],
-            "correct_answer": "A"
+            "question": "What is the largest ocean on Earth?",
+            "options": ["A) Atlantic Ocean", "B) Indian Ocean", "C) Arctic Ocean", "D) Pacific Ocean"],
+            "correct_answer": "D"
         }
     ],
     3: [
         {
-            "question": "What is the capital of Japan?",
-            "options": ["A) Beijing", "B) Tokyo", "C) Seoul", "D) Bangkok"],
-            "correct_answer": "B"
-        },
-        {
-            "question": "Who invented the lightbulb?",
-            "options": ["A) Nikola Tesla", "B) Thomas Edison", "C) Alexander Graham Bell", "D) Albert Einstein"],
-            "correct_answer": "B"
-        },
-        {
-            "question": "What is the symbol of the element Gold?",
-            "options": ["A) Au", "B) Ag", "C) Pb", "D) Fe"],
+            "question": "Who painted the Mona Lisa?",
+            "options": ["A) Leonardo da Vinci", "B) Pablo Picasso", "C) Vincent van Gogh", "D) Claude Monet"],
             "correct_answer": "A"
+        },
+        {
+            "question": "What is the capital city of France?",
+            "options": ["A) Rome", "B) Berlin", "C) Paris", "D) Madrid"],
+            "correct_answer": "C"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["A) Gold", "B) Iron", "C) Diamond", "D) Platinum"],
+            "correct_answer": "C"
         }
     ]
 }
